@@ -14,7 +14,7 @@ body{
 
 }
 header{
-    margin: auto;
+    margin-left:43.75rem;
     width: 540px;
     height: 174px;
     margin-top: 30px;
@@ -37,7 +37,7 @@ h1{
 .container{
     width: 1750px;
     height: 33rem;
-    margin: auto;
+    margin:auto;
     margin-top: 50px;
     justify-content: space-between;
     display: flex;
@@ -54,25 +54,25 @@ div{
 .a{
 border-top: 5px solid #7CEECE ;
 position: absolute;
-left: 420px;
+left: 26.25rem;
 }
 .b{
     border-top: 5px solid #E01931;
     position: absolute;
-    left: 800px;
+    left: 50rem;
     top: 282px;
 }
 .c{
     border-top: 5px solid #FF770B;
     position: absolute;
-    left: 800px; 
+    left: 50rem; 
     top: 532px;
 
 }
 .d{
     border-top: 5px solid #3498DB;
     position: absolute;
-    left: 1190px;
+    left: 74.375rem;
 }
 
 h3{
