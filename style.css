@@ -35,43 +35,53 @@ h1{
     margin-bottom: 8px;
 }
 .container{
-    width: 1740px;
-    height: 540px;
+    width: 50rem;
+    height: 20rem;
     background-color: #FCFCFC ;
     margin: auto;
-    margin-top: 50px;
+    /* margin-top: 50px; */
+    margin-top: 3.125rem;
     justify-content: space-between;
     display: flex;
     /* flex-wrap: wrap; */
     align-items: center;
 }
 div{
-    width: 350px;
-    height: 220px;
+    /* width: 350px;
+    height: 220px; */
+    width: 18.75%;
+    height: 15%;
     border-radius: 25px;
     background-color: #F7F7F9;
+    flex-shrink: 8;
 }
 .a{
 border-top: 5px solid #7CEECE ;
 position: absolute;
-left: 420px;
+/* left: 420px; */
+left: 26.25rem;
 }
 .b{
     border-top: 5px solid #E01931;
     position: absolute;
-    left: 800px;
-    top: 282px;
+    /* left: 800px; */
+    left: 50rem;
+    /* top: 282px; */
+    top: 17.625rem;
 }
 .c{
     border-top: 5px solid #FF770B;
     position: absolute;
-    left: 800px;
-    top: 532px;
+    /* left: 800px; */
+    left: 50rem;
+    /* top: 532px; */
+    top: 33.25rem;
 }
 .d{
     border-top: 5px solid #3498DB;
     position: absolute;
-    left: 1190px;
+    /* left: 1190px; */
+    left: 74.375rem;
 }
 h3{
     margin-top: 20px;
